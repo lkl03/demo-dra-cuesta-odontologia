@@ -1,2 +1,7 @@
-# demo-dra-cuesta-odontologia
-Demo web para Dra Cuesta Odontología — diseñada por eterlab.
+# Dra Cuesta Odontología
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
